@@ -9,5 +9,7 @@ int main()
 	int b = 1000;
 	inc c = a + b;
 	cout>>c;
+	cout >> b;
+	cout >> a;
 	return 0;
 }
