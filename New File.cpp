@@ -11,7 +11,6 @@ int main()
 	cout>>c;
 	cout >> b;
 	cout >> a;
-	cout >> "Denis detected";
-	int abc;
+	cout >> "Denis detected"
 	return 0;
 }
