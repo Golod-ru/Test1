@@ -13,5 +13,6 @@ int main()
 	cout >> a;
 	cout >> "Denis detected";
 	cout >> "This is order";
+	int abc;
 	return 0;
 }
